@@ -21,7 +21,7 @@
 
 ### 🛠️ 技术栈 & 工具
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -42,20 +42,6 @@
 | :---: | :---: |
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=booltime&show_icons=true&theme=radical&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true) |
 
-<!-- 可选：添加 streak 统计 -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true" />
-</p>
-
----
-
-### 🔥 最近活跃
-
-<!-- 使用 github-readme-activity-graph 生成的石墨图 -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=booltime&theme=react-dark&bg_color=0d1117&hide_border=true" />
-</p>
-
 ---
 
 ### 🤝 连接我
@@ -70,8 +56,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://github.com/yourusername/yourusername/raw/output/github-contribution-grid-snake.svg" alt="贪吃蛇动画" />
-  <!-- 上面的贪吃蛇动画需要配置 GitHub Action 自动生成，如果不使用可以注释掉 -->
-</p>
